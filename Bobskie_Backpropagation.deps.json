@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bobskie_Backpropagation/1.0.0": {
+        "runtime": {
+          "Bobskie_Backpropagation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bobskie_Backpropagation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
